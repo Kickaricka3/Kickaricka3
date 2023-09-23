@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :P
 
 <!--
 **Kickaricka3/Kickaricka3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
